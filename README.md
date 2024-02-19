@@ -7,7 +7,7 @@ It will print out a circle based on the inputs for output.
 The first input is an integer representing the diameter of the circle.
 The second input is a character that will be used as the "fill" for the circle.
 
-Note that monospace terminal fonts are taller than they are long, so you should account for this in your output.
+Note that monospace terminal fonts are taller than they are long, so you should account for this in your output. Specifically, 1 "unit" of diameter is 2 characters long, and one character tall.
 
 Examples, using "*" as the character input, and the number above the circle as the diameter:
 ```
