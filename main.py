@@ -2,7 +2,8 @@
 diameter = int(input())
 # Accept input for the character to use
 ch = input()
-# Caluclate the size of a region of the cicle
+# Caluclate the size of a region of the cicle 
+# The two // is the operator for integer divsion, which is like dividing and casting to an integer
 pads = diameter//3
 
 # Use a for loop to generate each row of the circle
